@@ -10,10 +10,6 @@ const (
 	afkTime      = "1h"
 )
 
-func DisconectAfk(users []User) {
-	// TODO
-}
-
 type Room struct {
 	Name        string
 	Event       string
